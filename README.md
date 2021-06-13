@@ -8,7 +8,7 @@ Restaurant Order Program:
 5) asks for a download of the receipt.
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Restaurant Order Program
+PROJECT TITLE: Restaurant Order Program <br>
 PURPOSE OF PROJECT: Order food
 VERSION or DATE: 5/30/2021 to 6/1/2021
 HOW TO START THIS PROJECT: Create classes for restaurant, customer, waiter, and menu
