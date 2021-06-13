@@ -14,6 +14,6 @@ VERSION or DATE: 5/30/2021 to 6/1/2021<br>
 HOW TO START THIS PROJECT: Create classes for restaurant, customer, waiter, and menu<br>
 AUTHORS: Kyle Huang<br>
 USER INSTRUCTIONS: Type in what food and how many. Yes or no for a print of the receipt.<br>
-Yes or no for a download copy of the receipt.<br>
+Yes or no for a download file of the receipt.<br>
 
 Uploaded from my private respository.
