@@ -277,7 +277,8 @@ public class BillysDenCashier {
         try {
             TimeUnit.MILLISECONDS.sleep(milliseconds);
         } catch (InterruptedException e) {
-            System.out.println("Premature awakening");
+            System.out.println("Error in wait method");
+            e.printStackTrace();
         }
     }
 
