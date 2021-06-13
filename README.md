@@ -1,11 +1,11 @@
 <h1>Restaurant Order Java</h1>
 ------------------------------------------------------------------------
-Restaurant Order Program:
-1) Waiter asks customer what he/she wants
-2) brings out menu.
-3) pick food item and how many.
-4) asks for receipt.
-5) asks for a download of the receipt.
+Restaurant Order Program:<br>
+1) Waiter asks customer what he/she wants<br>
+2) brings out menu.<br>
+3) pick food item and how many.<br>
+4) asks for receipt.<br>
+5) asks for a download of the receipt.<br>
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Restaurant Order Program<br>
