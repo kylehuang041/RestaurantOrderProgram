@@ -1,7 +1,7 @@
 # Restaurant Order Java
 ------------------------------------------------------------------------
 Restaurant Order Program:
--Waiter asks customer what he/she wants
+nWaiter asks customer what he/she wants
 -brings out menu
 -pick food item and how many
 -asks for receipt
