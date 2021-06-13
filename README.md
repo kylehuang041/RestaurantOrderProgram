@@ -1,11 +1,11 @@
 # Restaurant Order Java
 ------------------------------------------------------------------------
 Restaurant Order Program:
-Waiter asks customer what he/she wants
-brings out menu
-pick food item and how many
-asks for receipt
-asks for a download of the receipt
+Waiter asks customer what he/she wants.
+brings out menu.
+pick food item and how many.
+asks for receipt.
+asks for a download of the receipt.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Restaurant Order Program
