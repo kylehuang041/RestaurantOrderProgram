@@ -1,4 +1,4 @@
-<h1>Restaurant Order Java</h1>
+<h1>Restaurant Order Program In Java</h1>
 ------------------------------------------------------------------------<br>
 Restaurant Order Program:<br>
 1) Waiter ask customer what he/she wants<br>
