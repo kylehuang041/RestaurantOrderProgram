@@ -16,4 +16,4 @@ AUTHORS: Kyle Huang<br>
 USER INSTRUCTIONS: Type in what food and how many. Yes or no for a print of the receipt.<br>
 Yes or no for a download file of the receipt.<br>
 
-Uploaded from my private respository.
+Switched from my private respository.
