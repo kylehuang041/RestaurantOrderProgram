@@ -1,5 +1,3 @@
-import java.util.Scanner; // package reading values and user input
-
 /**
  * RESTAURANT ORDER PROGRAM
  * 
