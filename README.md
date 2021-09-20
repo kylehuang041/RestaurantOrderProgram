@@ -17,5 +17,5 @@ USER INSTRUCTIONS: Type in what food and how many. Yes or no for a print of the 
 Yes or no for a download file of the receipt.<br>
 
 NOTE: Type in the food accurately: case-sensitive.
+TiffanyLashAndSpa is my other account.
 
-Switched from my private respository.
