@@ -16,4 +16,6 @@ AUTHORS: Kyle Huang<br>
 USER INSTRUCTIONS: Type in what food and how many. Yes or no for a print of the receipt.<br>
 Yes or no for a download file of the receipt.<br>
 
-Switched from my private respository.
+NOTE: Type in the food accurately: case-sensitive.
+TiffanyLashAndSpa is my other account.
+
