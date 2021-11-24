@@ -136,25 +136,17 @@ public class BillysDenMenu {
         menu = new Object[5][][];
         // try and catch array out of bounds error
         try {
-            // each outer layer gets filled with the predefined sub menus
-            for (int i = 0; i < menu.length; i++) {
-                if (i == 0) {
-                    // first is the food menu that gets imported
-                    menu[0] = foodMenu;
-                } else if (i == 1) {
-                    // second is the appetizer menu that gets imported
-                    menu[1] = appetizerMenu;
-                } else if (i == 2) {
-                    // third is the dessert menu that gets imported
-                    menu[2] = dessertMenu;
-                } else if (i == 3) {
-                    // fourth is the snack menu that gets imported
-                    menu[3] = snackMenu;
-                } else if (i == 4) {
-                    // lastly the fifth is the drink menu that gets imported
-                    menu[4] = drinkMenu;
-                }
-            }
+            // Each outer layer gets filled with the predefined sub menus
+            // first is the food menu that gets imported
+            menu[0] = foodMenu;
+            // second is the appetizer menu that gets imported
+            menu[1] = appetizerMenu;
+            // third is the dessert menu that gets imported
+            menu[2] = dessertMenu;
+            // fourth is the snack menu that gets imported
+            menu[3] = snackMenu;
+            // lastly the fifth is the drink menu that gets imported
+            menu[4] = drinkMenu;
         } catch (ArrayIndexOutOfBoundsException e) {
             e.printStackTrace();
             System.out.println("Array Out of Bound Error: combineMenus()");

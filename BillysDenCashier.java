@@ -213,7 +213,7 @@ public class BillysDenCashier {
     /**
      * Calculates total price including tax.
      * 
-     * @param arr     holds the prices of what items you've ordered
+     * @param arr holds the prices of what items you've ordered
      * @param taxRate Seattle's restaurant sales tax
      * @return total total price including tax
      */
