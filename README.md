@@ -18,4 +18,3 @@ Yes or no for a download file of the receipt.<br>
 
 NOTE: Type in the food accurately: case-sensitive.
 TiffanyLashAndSpa is my other account.
-
