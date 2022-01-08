@@ -4,8 +4,8 @@ Restaurant Order Program:<br>
 1) Waiter ask customer what he/she wants<br>
 2) brings out menu.<br>
 3) pick food item and how many.<br>
-4) ask for receipt.<br>
-5) ask for a download of the receipt.<br>
+4) prints receipt.<br>
+5) option to download the receipt.<br>
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Restaurant Order Program<br>
