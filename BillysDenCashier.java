@@ -242,7 +242,7 @@ public class BillysDenCashier {
             System.out.println("Array Out of Bound Error: getCost()");
             e.printStackTrace();
         } catch (Exception e) {
-            System.out.println("Error: getCost() - type in correct food name");
+            System.out.println("Error: getCost() - type in correct food name (case-sensitive)");
             e.printStackTrace();
         }
         System.out.print("\n");
